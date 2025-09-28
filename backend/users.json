@@ -1,0 +1,1354 @@
+{
+  "5150776789": {
+    "name": "Gapple",
+    "worms": 106872,
+    "money": 1791564,
+    "catch": [
+      {
+        "name": "Карась",
+        "weight": 0.2,
+        "price": 10
+      },
+      {
+        "name": "Карась",
+        "weight": 0.2,
+        "price": 10
+      },
+      {
+        "name": "Карась",
+        "weight": 0.21,
+        "price": 10
+      },
+      {
+        "name": "Карась",
+        "weight": 0.21,
+        "price": 10
+      },
+      {
+        "name": "Щука",
+        "weight": 4.85,
+        "price": 727
+      },
+      {
+        "name": "Щука",
+        "weight": 4.85,
+        "price": 727
+      },
+      {
+        "name": "Сом",
+        "weight": 50.0,
+        "price": 10000
+      }
+    ],
+    "last_catch": {
+      "name": "Карась",
+      "weight": 0.67,
+      "price": 62
+    },
+    "exceeded_limit": true,
+    "bag_limit": 30,
+    "chat_id": 5150776789,
+    "achievements": [
+      "big_money"
+    ],
+    "items": {
+      "beer": {
+        "name": "Сусло древнего рыбака",
+        "countdown": 500,
+        "effect": {
+          "chance_bonus": 0.2
+        },
+        "durability": 60
+      },
+      "gear": {
+        "name": "Золотая блесна",
+        "countdown": 500,
+        "effect": {
+          "price_multiplier": 1.25
+        },
+        "durability": 60
+      },
+      "bait": {
+        "name": "Икра древнего осетра",
+        "countdown": 500,
+        "effect": {
+          "price_multiplier": 1.5
+        },
+        "durability": 60
+      },
+      "accessory": {
+        "name": "Амулет великого клёва",
+        "countdown": 500,
+        "effect": {
+          "crit_chance": 0.005
+        },
+        "durability": 60
+      }
+    },
+    "inventory": []
+  },
+  "633965731": {
+    "name": "#орешки",
+    "worms": 299297,
+    "money": 8886039,
+    "catch": [
+      {
+        "name": "Щука",
+        "weight": 1.11,
+        "price": 166
+      },
+      {
+        "name": "Щука",
+        "weight": 2.96,
+        "price": 444
+      },
+      {
+        "name": "Щука",
+        "weight": 3.22,
+        "price": 483
+      },
+      {
+        "name": "Щука",
+        "weight": 3.33,
+        "price": 499
+      },
+      {
+        "name": "Щука",
+        "weight": 4.8,
+        "price": 720
+      },
+      {
+        "name": "Сом",
+        "weight": 37.37,
+        "price": 7473
+      },
+      {
+        "name": "Щука",
+        "weight": 4.44,
+        "price": 666
+      },
+      {
+        "name": "Сом",
+        "weight": 26.26,
+        "price": 5252
+      },
+      {
+        "name": "Сом",
+        "weight": 44.44,
+        "price": 8888
+      },
+      {
+        "name": "Сом",
+        "weight": 7.27,
+        "price": 1454
+      },
+      {
+        "name": "Сом",
+        "weight": 10.02,
+        "price": 2004
+      },
+      {
+        "name": "Сом",
+        "weight": 38.88,
+        "price": 7776
+      },
+      {
+        "name": "Щука",
+        "weight": 3.7,
+        "price": 555
+      },
+      {
+        "name": "Сом",
+        "weight": 35.35,
+        "price": 7070
+      },
+      {
+        "name": "Сом",
+        "weight": 6.66,
+        "price": 1332
+      },
+      {
+        "name": "Щука",
+        "weight": 4.85,
+        "price": 727
+      },
+      {
+        "name": "Щука",
+        "weight": 4.44,
+        "price": 666
+      },
+      {
+        "name": "Сом",
+        "weight": 7.2,
+        "price": 1440
+      },
+      {
+        "name": "Карась",
+        "weight": 0.2,
+        "price": 10
+      },
+      {
+        "name": "Щука",
+        "weight": 1.0,
+        "price": 150
+      },
+      {
+        "name": "Сом",
+        "weight": 49.95,
+        "price": 9990
+      },
+      {
+        "name": "Сом",
+        "weight": 43.43,
+        "price": 8686
+      },
+      {
+        "name": "Сом",
+        "weight": 42.0,
+        "price": 8400
+      },
+      {
+        "name": "Сом",
+        "weight": 45.45,
+        "price": 9090
+      },
+      {
+        "name": "Щука",
+        "weight": 4.04,
+        "price": 606
+      },
+      {
+        "name": "Сом",
+        "weight": 6.66,
+        "price": 1332
+      },
+      {
+        "name": "Сом",
+        "weight": 19.19,
+        "price": 3838
+      },
+      {
+        "name": "Сом",
+        "weight": 40.0,
+        "price": 8000
+      },
+      {
+        "name": "Щука",
+        "weight": 2.22,
+        "price": 333
+      },
+      {
+        "name": "Сом",
+        "weight": 15.25,
+        "price": 3050
+      },
+      {
+        "name": "Сом",
+        "weight": 41.14,
+        "price": 8228
+      },
+      {
+        "name": "Сом",
+        "weight": 42.0,
+        "price": 8400
+      },
+      {
+        "name": "Сом",
+        "weight": 25.25,
+        "price": 5050
+      },
+      {
+        "name": "Сом",
+        "weight": 17.75,
+        "price": 3550
+      },
+      {
+        "name": "Сом",
+        "weight": 46.46,
+        "price": 9292
+      },
+      {
+        "name": "Сом",
+        "weight": 49.94,
+        "price": 9988
+      },
+      {
+        "name": "Щука",
+        "weight": 2.22,
+        "price": 333
+      },
+      {
+        "name": "Сом",
+        "weight": 7.27,
+        "price": 1454
+      },
+      {
+        "name": "Сом",
+        "weight": 11.11,
+        "price": 3333
+      },
+      {
+        "name": "Сом",
+        "weight": 128.12,
+        "price": 25624
+      }
+    ],
+    "last_catch": {
+      "name": "Сом",
+      "weight": 38.5,
+      "price": 22558
+    },
+    "pending_fish": {
+      "name": "Сом",
+      "weight": 44.41,
+      "price": 8882
+    },
+    "bag_limit": 50,
+    "achievements": [
+      "big_money",
+      "rich_5m",
+      "fish_weight_100",
+      "fish_price_812",
+      "fish_weight_14_88"
+    ],
+    "chat_id": 633965731,
+    "items": {
+      "beer": {
+        "name": "Жидкое золото",
+        "countdown": 500,
+        "effect": {
+          "price_multiplier": 1.25
+        },
+        "durability": 56
+      },
+      "gear": {
+        "name": "Золотая блесна",
+        "countdown": 500,
+        "effect": {
+          "price_multiplier": 1.25
+        },
+        "durability": 56
+      },
+      "bait": {
+        "name": "Икра древнего осетра",
+        "countdown": 500,
+        "effect": {
+          "price_multiplier": 1.5
+        },
+        "durability": 56
+      },
+      "accessory": {
+        "name": "Золотой медальон",
+        "countdown": 500,
+        "effect": {
+          "price_multiplier": 1.25
+        },
+        "durability": 56
+      }
+    },
+    "inventory": []
+  },
+  "1075849357": {
+    "name": "4",
+    "worms": 941,
+    "money": 394204,
+    "catch": [],
+    "last_catch": {
+      "name": "Сом",
+      "weight": 20.69,
+      "price": 4138
+    },
+    "pending_fish": {
+      "name": "Сом",
+      "weight": 49.24,
+      "price": 9848
+    }
+  },
+  "6674759401": {
+    "name": "Дум",
+    "worms": 9,
+    "money": 612,
+    "catch": [],
+    "last_catch": null,
+    "achievements": []
+  },
+  "305837353": {
+    "name": "Коля",
+    "worms": 4,
+    "money": 0,
+    "catch": [
+      {
+        "name": "Карась",
+        "weight": 0.77,
+        "price": 38
+      },
+      {
+        "name": "Сом",
+        "weight": 41.23,
+        "price": 8246
+      }
+    ],
+    "last_catch": null,
+    "achievements": []
+  },
+  "6509799213": {
+    "name": "t",
+    "worms": 426,
+    "money": 1821910,
+    "catch": [],
+    "last_catch": null,
+    "achievements": []
+  },
+  "1936413704": {
+    "name": "dddddddddd",
+    "worms": 131,
+    "money": 85503,
+    "catch": [
+      {
+        "name": "Карась",
+        "weight": 0.96,
+        "price": 48
+      },
+      {
+        "name": "Щука",
+        "weight": 2.36,
+        "price": 354
+      },
+      {
+        "name": "Карась",
+        "weight": 0.25,
+        "price": 12
+      },
+      {
+        "name": "Щука",
+        "weight": 3.19,
+        "price": 478
+      },
+      {
+        "name": "Щука",
+        "weight": 3.71,
+        "price": 556
+      },
+      {
+        "name": "Щука",
+        "weight": 2.41,
+        "price": 361
+      },
+      {
+        "name": "Карась",
+        "weight": 1.18,
+        "price": 59
+      },
+      {
+        "name": "Щука",
+        "weight": 4.87,
+        "price": 730
+      },
+      {
+        "name": "Щука",
+        "weight": 3.06,
+        "price": 459
+      },
+      {
+        "name": "Щука",
+        "weight": 1.99,
+        "price": 298
+      },
+      {
+        "name": "Щука",
+        "weight": 2.81,
+        "price": 421
+      },
+      {
+        "name": "Сом",
+        "weight": 44.94,
+        "price": 8988
+      }
+    ],
+    "last_catch": null,
+    "achievements": []
+  },
+  "957190210": {
+    "name": "отвратительный король",
+    "worms": 13773,
+    "money": 300217,
+    "catch": [
+      {
+        "name": "Сом",
+        "weight": 46.02,
+        "price": 9204
+      },
+      {
+        "name": "Сом",
+        "weight": 47.37,
+        "price": 9474
+      },
+      {
+        "name": "Сом",
+        "weight": 45.36,
+        "price": 9072
+      },
+      {
+        "name": "Сом",
+        "weight": 48.46,
+        "price": 9692
+      },
+      {
+        "name": "Сом",
+        "weight": 47.25,
+        "price": 9450
+      },
+      {
+        "name": "Сом",
+        "weight": 47.22,
+        "price": 9444
+      },
+      {
+        "name": "Сом",
+        "weight": 49.16,
+        "price": 9832
+      },
+      {
+        "name": "Сом",
+        "weight": 48.46,
+        "price": 9692
+      },
+      {
+        "name": "Сом",
+        "weight": 7.9,
+        "price": 1580
+      },
+      {
+        "name": "Сом",
+        "weight": 46.14,
+        "price": 9228
+      },
+      {
+        "name": "Сом",
+        "weight": 48.68,
+        "price": 9736
+      },
+      {
+        "name": "Сом",
+        "weight": 48.0,
+        "price": 9600
+      }
+    ],
+    "last_catch": null,
+    "achievements": [],
+    "chat_id": 957190210,
+    "items": {
+      "beer": null,
+      "gear": null,
+      "bait": null,
+      "accessory": {
+        "name": "Колокольчик удачи",
+        "countdown": 500,
+        "effect": {
+          "crit_chance": 0.001
+        },
+        "durability": 363
+      }
+    }
+  },
+  "1872911897": {
+    "name": "ne⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋcvv",
+    "worms": 7,
+    "money": 0,
+    "catch": [],
+    "last_catch": {
+      "name": "Сом",
+      "weight": 38.58,
+      "price": 7716
+    },
+    "achievements": []
+  },
+  "433174969": {
+    "name": "shgzr",
+    "worms": 699,
+    "money": 84662,
+    "catch": [
+      {
+        "name": "Сом",
+        "weight": 12.88,
+        "price": 2576
+      }
+    ],
+    "last_catch": {
+      "name": "Карась",
+      "weight": 0.58,
+      "price": 28
+    },
+    "achievements": []
+  },
+  "769816585": {
+    "name": "blade of miquela",
+    "worms": 83,
+    "money": 3933,
+    "catch": [
+      {
+        "name": "Карась",
+        "weight": 1.03,
+        "price": 51
+      },
+      {
+        "name": "Щука",
+        "weight": 2.09,
+        "price": 313
+      },
+      {
+        "name": "Щука",
+        "weight": 2.79,
+        "price": 418
+      },
+      {
+        "name": "Сом",
+        "weight": 45.91,
+        "price": 9182
+      },
+      {
+        "name": "Сом",
+        "weight": 11.21,
+        "price": 2242
+      }
+    ],
+    "last_catch": null,
+    "achievements": [],
+    "chat_id": 769816585,
+    "items": {
+      "beer": null,
+      "gear": null,
+      "bait": null,
+      "accessory": null
+    }
+  },
+  "5469173704": {
+    "name": "Кирилл",
+    "worms": 912,
+    "money": 67447,
+    "catch": [
+      {
+        "name": "Карась",
+        "weight": 0.86,
+        "price": 43
+      },
+      {
+        "name": "Сом",
+        "weight": 41.99,
+        "price": 8398
+      },
+      {
+        "name": "Сом",
+        "weight": 13.91,
+        "price": 2782
+      },
+      {
+        "name": "Сом",
+        "weight": 46.1,
+        "price": 9220
+      },
+      {
+        "name": "Сом",
+        "weight": 20.9,
+        "price": 4180
+      },
+      {
+        "name": "Сом",
+        "weight": 11.6,
+        "price": 2320
+      },
+      {
+        "name": "Сом",
+        "weight": 38.58,
+        "price": 7716
+      },
+      {
+        "name": "Сом",
+        "weight": 20.52,
+        "price": 4104
+      },
+      {
+        "name": "Сом",
+        "weight": 8.44,
+        "price": 1688
+      },
+      {
+        "name": "Сом",
+        "weight": 39.56,
+        "price": 7912
+      },
+      {
+        "name": "Сом",
+        "weight": 36.84,
+        "price": 7368
+      }
+    ],
+    "last_catch": null,
+    "achievements": []
+  },
+  "954425748": {
+    "name": "Alvas",
+    "worms": 48921,
+    "money": 1273517,
+    "catch": [
+      {
+        "name": "Сом",
+        "weight": 48.35,
+        "price": 9670
+      },
+      {
+        "name": "Щука",
+        "weight": 4.44,
+        "price": 666
+      }
+    ],
+    "last_catch": null,
+    "achievements": [],
+    "chat_id": 954425748,
+    "items": {
+      "beer": null,
+      "gear": null,
+      "bait": null,
+      "accessory": null
+    }
+  },
+  "5061456685": {
+    "name": "Егор",
+    "worms": 8,
+    "money": 5518,
+    "catch": [],
+    "last_catch": null,
+    "achievements": []
+  },
+  "7078155214": {
+    "name": "рюкья🚱",
+    "worms": 146,
+    "money": 1770128,
+    "catch": [
+      {
+        "name": "Сом",
+        "weight": 27.44,
+        "price": 5488
+      },
+      {
+        "name": "Сом",
+        "weight": 42.71,
+        "price": 8542
+      },
+      {
+        "name": "Сом",
+        "weight": 45.94,
+        "price": 9188
+      },
+      {
+        "name": "Сом",
+        "weight": 45.47,
+        "price": 9094
+      },
+      {
+        "name": "Сом",
+        "weight": 49.13,
+        "price": 9826
+      },
+      {
+        "name": "Сом",
+        "weight": 49.92,
+        "price": 9984
+      }
+    ],
+    "last_catch": null,
+    "achievements": [
+      "big_money"
+    ],
+    "bag_limit": 20,
+    "chat_id": 7078155214,
+    "items": {
+      "beer": {
+        "name": "Крепкое пиво",
+        "countdown": 500,
+        "effect": {
+          "chance_bonus": 0.1
+        },
+        "durability": 35
+      },
+      "gear": null,
+      "bait": null,
+      "accessory": {
+        "name": "Кулон Нептуна",
+        "countdown": 500,
+        "effect": {
+          "crit_chance": 0.0025
+        },
+        "durability": 35
+      }
+    }
+  },
+  "1996264910": {
+    "name": "Atollx",
+    "worms": 0,
+    "money": 4276566,
+    "catch": [
+      {
+        "name": "Сом",
+        "weight": 50.0,
+        "price": 10000
+      },
+      {
+        "name": "Сом",
+        "weight": 49.9,
+        "price": 9980
+      },
+      {
+        "name": "Сом",
+        "weight": 26.26,
+        "price": 5252
+      },
+      {
+        "name": "Щука",
+        "weight": 4.85,
+        "price": 727
+      },
+      {
+        "name": "Щука",
+        "weight": 4.85,
+        "price": 727
+      }
+    ],
+    "last_catch": null,
+    "achievements": [
+      "big_money"
+    ],
+    "bag_limit": 20,
+    "chat_id": 1996264910,
+    "items": {
+      "beer": null,
+      "gear": null,
+      "bait": null,
+      "accessory": null
+    }
+  },
+  "1013255675": {
+    "name": "Алексей",
+    "worms": 23873,
+    "money": 10315630,
+    "catch": [
+      {
+        "name": "Карась",
+        "weight": 0.2,
+        "price": 10
+      }
+    ],
+    "last_catch": null,
+    "achievements": [
+      "big_money",
+      "fish_price_812",
+      "rich_5m"
+    ],
+    "bag_limit": 20,
+    "chat_id": 1013255675,
+    "items": {
+      "beer": null,
+      "gear": null,
+      "bait": null,
+      "accessory": null
+    },
+    "inventory": []
+  },
+  "1039764254": {
+    "name": "жжкитаек",
+    "worms": 385,
+    "money": 1518146,
+    "catch": [
+      {
+        "name": "Сом",
+        "weight": 14.37,
+        "price": 2874
+      }
+    ],
+    "last_catch": null,
+    "achievements": [
+      "big_money"
+    ],
+    "bag_limit": 20,
+    "chat_id": 1039764254
+  },
+  "890930002": {
+    "name": "Sergo Dghan",
+    "worms": 1,
+    "money": 202689,
+    "catch": [
+      {
+        "name": "Сом",
+        "weight": 30.45,
+        "price": 6090
+      },
+      {
+        "name": "Сом",
+        "weight": 42.8,
+        "price": 8560
+      },
+      {
+        "name": "Сом",
+        "weight": 48.87,
+        "price": 9774
+      },
+      {
+        "name": "Сом",
+        "weight": 30.96,
+        "price": 6192
+      },
+      {
+        "name": "Сом",
+        "weight": 39.6,
+        "price": 7920
+      },
+      {
+        "name": "Сом",
+        "weight": 32.71,
+        "price": 6542
+      },
+      {
+        "name": "Сом",
+        "weight": 31.61,
+        "price": 6322
+      },
+      {
+        "name": "Сом",
+        "weight": 16.24,
+        "price": 3247
+      },
+      {
+        "name": "Сом",
+        "weight": 43.1,
+        "price": 8620
+      },
+      {
+        "name": "Сом",
+        "weight": 42.53,
+        "price": 8506
+      },
+      {
+        "name": "Сом",
+        "weight": 28.45,
+        "price": 5690
+      },
+      {
+        "name": "Сом",
+        "weight": 42.28,
+        "price": 8456
+      },
+      {
+        "name": "Сом",
+        "weight": 32.18,
+        "price": 6436
+      },
+      {
+        "name": "Сом",
+        "weight": 41.16,
+        "price": 8232
+      },
+      {
+        "name": "Сом",
+        "weight": 48.06,
+        "price": 9612
+      },
+      {
+        "name": "Сом",
+        "weight": 15.38,
+        "price": 3076
+      },
+      {
+        "name": "Сом",
+        "weight": 35.48,
+        "price": 7095
+      }
+    ],
+    "last_catch": null,
+    "achievements": [],
+    "bag_limit": 20,
+    "chat_id": 890930002
+  },
+  "1048691787": {
+    "name": "𝓛𝔂𝓪𝓷𝓪💋",
+    "worms": 0,
+    "money": 7634,
+    "catch": [],
+    "last_catch": {
+      "name": "Щука",
+      "weight": 1.21,
+      "price": 181
+    },
+    "achievements": [],
+    "bag_limit": 20,
+    "chat_id": 1048691787
+  },
+  "7523695427": {
+    "name": "Xnzayrpcad",
+    "worms": 10,
+    "money": 0,
+    "catch": [],
+    "last_catch": null,
+    "achievements": [],
+    "bag_limit": 20,
+    "chat_id": 7523695427
+  },
+  "5714919965": {
+    "name": "www𓍼",
+    "worms": 713,
+    "money": 476867,
+    "catch": [],
+    "last_catch": null,
+    "achievements": [],
+    "bag_limit": 20,
+    "chat_id": 5714919965,
+    "items": {
+      "beer": null,
+      "gear": null,
+      "bait": null,
+      "accessory": null
+    },
+    "inventory": []
+  },
+  "730037742": {
+    "name": "wokeup",
+    "worms": 36,
+    "money": 59849,
+    "catch": [
+      {
+        "name": "Карась",
+        "weight": 1.38,
+        "price": 69
+      },
+      {
+        "name": "Сом",
+        "weight": 35.8,
+        "price": 7159
+      },
+      {
+        "name": "Сом",
+        "weight": 46.51,
+        "price": 9302
+      },
+      {
+        "name": "Сом",
+        "weight": 41.4,
+        "price": 8280
+      }
+    ],
+    "last_catch": null,
+    "achievements": [],
+    "bag_limit": 20,
+    "chat_id": 730037742,
+    "inventory": [],
+    "items": {
+      "beer": null,
+      "gear": null,
+      "bait": null,
+      "accessory": null
+    }
+  },
+  "1368734015": {
+    "name": "неля",
+    "worms": 0,
+    "money": 15581,
+    "catch": [
+      {
+        "name": "Щука",
+        "weight": 2.32,
+        "price": 348
+      },
+      {
+        "name": "Сом",
+        "weight": 5.29,
+        "price": 1058
+      }
+    ],
+    "last_catch": null,
+    "achievements": [],
+    "bag_limit": 20,
+    "chat_id": 1368734015,
+    "items": {
+      "beer": null,
+      "gear": null,
+      "bait": null,
+      "accessory": null
+    }
+  },
+  "969036241": {
+    "name": "София",
+    "worms": 48,
+    "money": 14526,
+    "catch": [],
+    "last_catch": null,
+    "achievements": [],
+    "bag_limit": 20,
+    "chat_id": 969036241
+  },
+  "1093661380": {
+    "name": "gmc",
+    "worms": 737,
+    "money": 424897,
+    "catch": [],
+    "last_catch": {
+      "name": "Сом",
+      "weight": 75.87,
+      "price": 18967
+    },
+    "achievements": [
+      "big_money"
+    ],
+    "bag_limit": 20,
+    "chat_id": 1093661380,
+    "inventory": [],
+    "items": {
+      "beer": {
+        "name": "Крепкое пиво",
+        "countdown": 500,
+        "effect": {
+          "chance_bonus": 0.1
+        },
+        "durability": 330
+      },
+      "gear": {
+        "name": "Голографическая блесна",
+        "countdown": 500,
+        "effect": {
+          "rare_weight_bonus": 0.07
+        },
+        "durability": 330
+      },
+      "bait": {
+        "name": "Алмазная личинка",
+        "countdown": 500,
+        "effect": {
+          "price_multiplier": 1.25
+        },
+        "durability": 330
+      },
+      "accessory": {
+        "name": "Колокольчик удачи",
+        "countdown": 500,
+        "effect": {
+          "crit_chance": 0.001
+        },
+        "durability": 330
+      }
+    }
+  },
+  "1076905977": {
+    "name": "Alivert",
+    "worms": 0,
+    "money": 210146,
+    "catch": [],
+    "last_catch": null,
+    "achievements": [
+      "big_money"
+    ],
+    "bag_limit": 20,
+    "chat_id": 1076905977
+  },
+  "7263072283": {
+    "name": "#сияние",
+    "worms": 198155,
+    "money": 0,
+    "catch": [],
+    "last_catch": {
+      "name": "Сом",
+      "weight": 31.23,
+      "price": 6246
+    },
+    "achievements": [
+      "big_money"
+    ],
+    "bag_limit": 20,
+    "chat_id": 7263072283,
+    "items": {
+      "beer": null,
+      "gear": null,
+      "bait": null,
+      "accessory": null
+    }
+  },
+  "899743591": {
+    "name": "qq?",
+    "worms": 0,
+    "money": 112,
+    "catch": [],
+    "last_catch": null,
+    "achievements": [],
+    "bag_limit": 20,
+    "chat_id": 899743591,
+    "items": {
+      "beer": null,
+      "gear": null,
+      "bait": null,
+      "accessory": null
+    }
+  },
+  "428081566": {
+    "name": "Nemsyao",
+    "worms": 60,
+    "money": 42800,
+    "catch": [],
+    "last_catch": null,
+    "achievements": [],
+    "bag_limit": 20,
+    "chat_id": 428081566,
+    "items": {
+      "beer": null,
+      "gear": null,
+      "bait": null,
+      "accessory": null
+    },
+    "inventory": []
+  },
+  "1053249676": {
+    "name": "Сергей",
+    "worms": 66,
+    "money": 19265,
+    "catch": [
+      {
+        "name": "Сом",
+        "weight": 36.68,
+        "price": 7336
+      }
+    ],
+    "last_catch": {
+      "name": "Щука",
+      "weight": 3.29,
+      "price": 493
+    },
+    "achievements": [],
+    "bag_limit": 20,
+    "chat_id": 1053249676,
+    "items": {
+      "beer": null,
+      "gear": null,
+      "bait": null,
+      "accessory": null
+    },
+    "inventory": []
+  },
+  "1047798390": {
+    "name": "૮꒰ Dari ꒱ა",
+    "worms": 0,
+    "money": 16,
+    "catch": [],
+    "last_catch": null,
+    "achievements": [],
+    "bag_limit": 20,
+    "chat_id": 1047798390,
+    "items": {
+      "beer": null,
+      "gear": null,
+      "bait": null,
+      "accessory": null
+    },
+    "inventory": []
+  },
+  "983022953": {
+    "name": "mum",
+    "worms": 0,
+    "money": 9119,
+    "catch": [
+      {
+        "name": "Щука",
+        "weight": 2.37,
+        "price": 355
+      },
+      {
+        "name": "Сом",
+        "weight": 32.59,
+        "price": 6518
+      }
+    ],
+    "last_catch": null,
+    "achievements": [],
+    "bag_limit": 20,
+    "chat_id": 983022953,
+    "items": {
+      "beer": null,
+      "gear": null,
+      "bait": null,
+      "accessory": null
+    }
+  },
+  "1201339803": {
+    "name": "Вадим",
+    "worms": 0,
+    "money": 252260,
+    "catch": [],
+    "last_catch": null,
+    "achievements": [],
+    "bag_limit": 20,
+    "chat_id": 1201339803,
+    "inventory": [],
+    "items": {
+      "beer": null,
+      "gear": {
+        "name": "Голографическая блесна",
+        "countdown": 500,
+        "effect": {
+          "rare_weight_bonus": 0.07
+        },
+        "durability": 439
+      },
+      "bait": null,
+      "accessory": null
+    }
+  },
+  "867180187": {
+    "name": "дашка🤍",
+    "worms": 0,
+    "money": 29255,
+    "catch": [
+      {
+        "name": "Карась",
+        "weight": 0.84,
+        "price": 42
+      },
+      {
+        "name": "Карась",
+        "weight": 1.05,
+        "price": 52
+      },
+      {
+        "name": "Щука",
+        "weight": 2.94,
+        "price": 441
+      }
+    ],
+    "last_catch": null,
+    "achievements": [],
+    "bag_limit": 20,
+    "chat_id": 867180187,
+    "inventory": [],
+    "items": {
+      "beer": null,
+      "gear": null,
+      "bait": null,
+      "accessory": null
+    }
+  },
+  "1207105207": {
+    "name": "Бро",
+    "worms": 17,
+    "money": 9034,
+    "catch": [],
+    "last_catch": {
+      "name": "Щука",
+      "weight": 2.57,
+      "price": 385
+    },
+    "achievements": [],
+    "bag_limit": 20,
+    "chat_id": 1207105207,
+    "inventory": [],
+    "items": {
+      "beer": null,
+      "gear": null,
+      "bait": null,
+      "accessory": null
+    }
+  }
+}

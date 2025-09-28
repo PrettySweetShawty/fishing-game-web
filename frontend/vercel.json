@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "name": "fishing-game-web",
+  "builds": [
+    {
+      "src": "**/*.html",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "**/*.js",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ],
+  "env": {
+    "API_URL": "https://your-backend.railway.app"
+  }
+}

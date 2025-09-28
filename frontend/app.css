@@ -1,0 +1,246 @@
+/* frontend/styles/app.css */
+.app-container {
+    max-width: 400px;
+    margin: 0 auto;
+    background: linear-gradient(180deg, #1e3c72 0%, #2a5298 100%);
+    min-height: 100vh;
+    color: white;
+}
+
+.app-header {
+    padding: 15px 20px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.3);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.app-header h1 {
+    margin: 0 0 5px 0;
+    font-size: 20px;
+}
+
+.user-info {
+    font-size: 14px;
+    opacity: 0.8;
+}
+
+.main-nav {
+    display: flex;
+    padding: 10px;
+    gap: 5px;
+    background: rgba(0, 0, 0, 0.2);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    overflow-x: auto;
+}
+
+.nav-btn {
+    flex: 1;
+    padding: 10px 5px;
+    border: none;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    cursor: pointer;
+    font-size: 12px;
+    white-space: nowrap;
+    transition: all 0.3s;
+}
+
+.nav-btn:hover {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.nav-btn.active {
+    background: #4CAF50;
+    font-weight: bold;
+}
+
+.main-content {
+    padding: 15px;
+}
+
+/* Стили для топа игроков */
+.top-players {
+    padding: 10px;
+}
+
+.top-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 15px;
+}
+
+.top-player {
+    display: flex;
+    align-items: center;
+    padding: 12px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    gap: 12px;
+}
+
+.top-player.top-three {
+    background: linear-gradient(45deg, rgba(255, 215, 0, 0.2), rgba(255, 255, 255, 0.1));
+    border: 1px solid rgba(255, 215, 0, 0.3);
+}
+
+.player-rank {
+    width: 30px;
+    height: 30px;
+    background: #4CAF50;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.top-player.top-three .player-rank {
+    background: #FFD700;
+    color: #000;
+}
+
+.player-name {
+    flex: 1;
+    font-weight: bold;
+}
+
+.player-money {
+    color: #FFD700;
+    font-weight: bold;
+}
+
+.player-achievements {
+    color: #4CAF50;
+}
+
+/* Стили для достижений */
+.achievements-container {
+    padding: 10px;
+}
+
+.achievements-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 15px;
+}
+
+.achievement-item {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    gap: 15px;
+    border-left: 4px solid #666;
+}
+
+.achievement-item.unlocked {
+    background: rgba(76, 175, 80, 0.2);
+    border-left-color: #4CAF50;
+}
+
+.achievement-item.locked {
+    opacity: 0.6;
+}
+
+.achievement-icon {
+    font-size: 20px;
+}
+
+.achievement-info {
+    flex: 1;
+}
+
+.achievement-name {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.achievement-desc {
+    font-size: 12px;
+    opacity: 0.8;
+}
+
+.achievement-status {
+    font-size: 12px;
+    opacity: 0.7;
+}
+
+/* Уведомления */
+#notification-container {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.notification {
+    background: #333;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    transform: translateX(400px);
+    transition: transform 0.3s ease;
+    max-width: 300px;
+}
+
+.notification.show {
+    transform: translateX(0);
+}
+
+.notification.success {
+    background: #4CAF50;
+}
+
+.notification.error {
+    background: #f44336;
+}
+
+.notification.info {
+    background: #2196F3;
+}
+
+/* Адаптивность */
+@media (max-width: 480px) {
+    .app-container {
+        max-width: 100%;
+    }
+    
+    .main-nav {
+        padding: 8px;
+    }
+    
+    .nav-btn {
+        font-size: 11px;
+        padding: 8px 4px;
+    }
+    
+    .main-content {
+        padding: 10px;
+    }
+}
+
+/* Скроллбар */
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.5);
+}
